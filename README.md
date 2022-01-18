@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coast-guide
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React framework
 - 💞️ I’m looking to collaborate on react projects
 - 📫 Contact me on sksahil.contact@gmail.com
 
