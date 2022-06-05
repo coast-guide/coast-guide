@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SK SAHIL
+- 👋 Hi, I’m SAHIL SK
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React framework
 - 💞️ I’m looking to collaborate on react projects
