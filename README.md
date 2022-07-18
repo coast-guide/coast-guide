@@ -1,7 +1,7 @@
-- 👋 Hi, I’m SAHIL SK
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React framework
-- 💞️ I’m looking to collaborate on react projects
+- 👋 Hi, I’m Sahil Sk
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning django.
+- 💞️ I’m looking to collaborate on react.js projects.
 - 📫 Contact me on sksahil.contact@gmail.com
 
 <!---
