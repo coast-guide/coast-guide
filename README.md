@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sahil Sk
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning django.
-- 💞️ I’m looking to collaborate on react.js projects.
+- 👋 Hi, I’m SK Sahil
+- 👀 I’m Interested in Data Science and Machine Learning.
+- 🌱 I’m currently working in Data Science Projects.
+- 💞️ I’m looking to collaborate on any open source machine learning projects.
 - 📫 Contact me on sksahil.contact@gmail.com
 
 <!---
